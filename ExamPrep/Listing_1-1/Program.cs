@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Threading;
 
+// https://www.youtube.com/watch?v=RhLLxew4-TY
+
 namespace Listing_1_1
 {
+    // LISTING 1-1 Creating a thread with the Thread class
     public static class Program
     {
         public static void Main(string[] args)
