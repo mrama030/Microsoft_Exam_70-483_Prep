@@ -1,0 +1,11 @@
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\bin\Debug\netcoreapp3.1\Listing_1-1.exe
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\bin\Debug\netcoreapp3.1\Listing_1-1.deps.json
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\bin\Debug\netcoreapp3.1\Listing_1-1.runtimeconfig.json
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\bin\Debug\netcoreapp3.1\Listing_1-1.runtimeconfig.dev.json
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\bin\Debug\netcoreapp3.1\Listing_1-1.dll
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\bin\Debug\netcoreapp3.1\Listing_1-1.pdb
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\obj\Debug\netcoreapp3.1\Listing_1-1.csprojAssemblyReference.cache
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\obj\Debug\netcoreapp3.1\Listing_1-1.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\obj\Debug\netcoreapp3.1\Listing_1-1.AssemblyInfo.cs
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\obj\Debug\netcoreapp3.1\Listing_1-1.dll
+C:\Users\Mohamed\Documents\GitHub\Microsoft_Exam_70-483_Prep\ExamPrep\Listing_1-1\obj\Debug\netcoreapp3.1\Listing_1-1.pdb
